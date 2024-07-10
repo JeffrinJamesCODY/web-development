@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 3em;
+}
+#dogediv {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 50%;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+}
+
+#dogeimg {
+    border: solid white 5px;
+    width: 100%;
+    
+}
